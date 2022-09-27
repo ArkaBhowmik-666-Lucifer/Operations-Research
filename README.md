@@ -1,9 +1,11 @@
 # OPERATIONS RESEARCH
 
 # TRANSPORTATION PROBLEM
-#### VOGEL'S APPROXIMATION METHOD(VAM)
-#### NORTHWEST CORNER METHOD
-#### LEAST COST METHOD
+o Vogel's Approximation Method(VAM)
+
+o Least Cost Method
+
+o Northwest Corner Method
 
 # ASSIGNMENT PROBLEM
-#### HUNGARIAN METHOD
+o Hungarian Method
